@@ -8,4 +8,3 @@ positionMouse.click(1028,1041)
 timeWaiting.sleep(2)
 positionMouse.typewrite('dollar currency today')
 positionMouse.press('enter')
-
